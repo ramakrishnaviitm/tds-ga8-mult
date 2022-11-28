@@ -1,1 +1,1 @@
-worker: streamlit run tds_ga8_mult.py
+web: streamlit run tds_ga8_mult.py
