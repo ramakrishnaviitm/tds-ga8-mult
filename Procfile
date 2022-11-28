@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tds_ga8_mult.py
+app: streamlit run tds_ga8_mult.py
