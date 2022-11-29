@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tds_ga8_mult.py
+web: sh setup.sh && echo PORT $PORT && streamlit run --server.port $PORT tds_ga8_mult.py
